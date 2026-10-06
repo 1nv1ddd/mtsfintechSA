@@ -17,7 +17,7 @@
 
 ## Файлы
 
-- [spec.pdf](spec.pdf) - спецификация требований, главный документ
+- [main project.pdf](main%20project.pdf) - спецификация требований, главный документ
 - [presentation.pdf](presentation.pdf) - презентация с защиты
 - [figma-demo.mp4](figma-demo.mp4) - запись прототипа, [сам прототип в Figma](https://www.figma.com/proto/iOEzDCFGyen9QdcYz72OeN/Untitled?node-id=0-1&t=TLVq4V4GCppbtDwl-1)
 - [diagrams](diagrams) - диаграммы картинками, ER-диаграмма еще и исходником для draw.io
